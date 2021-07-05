@@ -18,9 +18,9 @@ Further addition for CN forming as it usually have more than one initial conditi
   - Initial condition (Polynominal or constant) with separation for each section<br>
   - Time elapsed<br>
 - With Output of : <br>
-  - Cn Variable and General Equation of U(x,t) (V2.0)<br>
+  - Cn Variable and General Equation of U(x,t)<br>
   - Velocity Distribution across the wave<br>
-  - Plotting the Velocity based on order and time categorizations (V2.0)<br>
+  - Plotting the Velocity based on order and time categorizations<br>
 
 # What this program does not do (yet)
 - Calculating the temperature for one dimensional wave equatio with each/one end is a non fixed boundaries (Non - Homogeneous)<br>
