@@ -1,6 +1,6 @@
 # Introduction
 Hello There! 
-I'm A Aerospace/Aeronautical Engineering Students currently diving too much time in MATLAB With further intrest in Java and Phyton.<br>
+I'm an Aerospace/Aeronautical Engineering Students currently diving too much time in MATLAB With further intrest in Java and Phyton.<br>
 As this is my second time uploading my works to GitHub, Please do forgive me for doing something wrong.<br>
 Further Feedback is welcomed as i dont get one from my proffesor.<br>
 
@@ -9,7 +9,9 @@ Coming from the last repositories of heat conduction 1D equation and easily impl
 Further addition for CN forming as it usually have more than one initial conditions. <br>
 
 # What can this program do
-- Calculating the temperature for one dimensional heat conduction with each end are fixed<br>
+- Calculating the temperature for one dimensional heat conduction with each end are fixed With the equations below<br>
+  <img src = "https://github.com/mluckyw/AN_wave_eq_1D/blob/main/Wave_Equation_Homogeneous_test_run/General_equation.PNG" /><br>
+  <img src = "https://github.com/mluckyw/AN_wave_eq_1D/blob/main/Wave_Equation_Homogeneous_test_run/Cn_value.PNG" /><br>
 - With input at the command window such as :<br>
   - String length<br>
   - Order of Fourier Series<br>
@@ -21,9 +23,14 @@ Further addition for CN forming as it usually have more than one initial conditi
   - Cn Variable and General Equation of U(x,t)<br>
   - Velocity Distribution across the wave<br>
   - Plotting the Velocity based on order and time categorizations<br>
+  <p align = "center"> Velocity Plotting from V1.0 <p/>
+  <p align = "center"> Grouping based on Time input <p/>
+  <img src = "https://github.com/mluckyw/AN_wave_eq_1D/blob/main/Wave_Equation_Homogeneous_test_run/Wave_Equation_Homogeneous_1D_V1_0_Time_Based.jpg" />
+  <p align = "center"> Grouping based on Order input  <p/>
+  <img src = "https://github.com/mluckyw/AN_wave_eq_1D/blob/main/Wave_Equation_Homogeneous_test_run/Wave_Equation_Homogeneous_1D_V1_0_Order_Based.jpg" />
 
 # What this program does not do (yet)
-- Calculating the temperature for one dimensional wave equatio with each/one end is a non fixed boundaries (Non - Homogeneous)<br>
+- Calculating the temperature for one dimensional wave equation with each/one end is a non fixed boundaries (Non - Homogeneous)<br>
 
 # What's The difference in difference version? <br>
 This program has only one version as it is derived from the 2.0 heat conduction with significatly faster computing time.<br>
